@@ -1,0 +1,274 @@
+[33mcommit e86cfd1f065193c7646a738a735ed029fd7add47[m[33m ([m[1;36mHEAD -> [m[1;32mdashboard[m[33m, [m[1;31morigin/dashboard[m[33m)[m
+Author: unknown <Sagar.T@skillassure.com>
+Date:   Fri Jan 20 10:59:11 2023 +0530
+
+    readme files insisted
+
+[33mcommit 16346ce748b28fa37f3b3599fcd426874a50f1d6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: unknown <Sagar.T@skillassure.com>
+Date:   Fri Jan 20 10:26:30 2023 +0530
+
+    readme updated
+
+[33mcommit 1688edd84b291f29d16b6c2e8da33812ac3b59b4[m
+Author: unknown <Sagar.T@skillassure.com>
+Date:   Thu Jan 19 17:50:03 2023 +0530
+
+    changes in readme
+
+[33mcommit 587798a8e84bf7acf68883108926a5f16e477a36[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Thu Jan 5 18:29:01 2023 +0530
+
+    sonar test
+
+[33mcommit 2788935ea4af84c73fa5e3ec61099f4f21065fd2[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Thu Jan 5 18:16:21 2023 +0530
+
+    added
+
+[33mcommit e7c6f52fb5f9be0a48ddd949ffab35a61d086ab6[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Thu Jan 5 18:12:11 2023 +0530
+
+    deploy stage
+
+[33mcommit 301de89ab759468e97fb3f20c69610e2c198df75[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Thu Jan 5 18:08:42 2023 +0530
+
+    docker image statge
+
+[33mcommit 50ef1e352775cca5cb021b4cd26a12b3eef9f7fe[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Thu Jan 5 18:01:10 2023 +0530
+
+    Building project
+
+[33mcommit ff15c55074b55b9de525c7b8e26511aadb6263ce[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Thu Jan 5 17:59:43 2023 +0530
+
+    Stage-1
+
+[33mcommit 708040e5accb213e044feb66ba4f34e40eb303c5[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Thu Jan 5 17:58:29 2023 +0530
+
+    Git checkout
+
+[33mcommit a9fd008baff8de7f93f8b82772be90c8f8a21446[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Mon Jan 2 14:01:00 2023 +0530
+
+    fix the bug in mobile controler
+
+[33mcommit c482cca0d129cd8359d12fef619ff5ea206dae19[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Mon Jan 2 13:59:07 2023 +0530
+
+    updated
+
+[33mcommit 6f57bcde45f6bfb8aa5f8e093bd3abd61d9d5957[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Mon Jan 2 13:49:34 2023 +0530
+
+    deploy
+
+[33mcommit a50106832b0617bd2f9f6a85bc77b91b5c6c2ca9[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Mon Jan 2 13:46:21 2023 +0530
+
+    UPDATE
+
+[33mcommit 8f9debd92000d23f86f469dcdb7c9be018e5704f[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Mon Jan 2 13:43:35 2023 +0530
+
+    docker image build
+
+[33mcommit 3b72d31e0eb783ebfb578a0a7d306d0b040af16d[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Mon Jan 2 13:31:31 2023 +0530
+
+    mvn intsall
+
+[33mcommit d88fa45330c10fdef4ae0488c4cb954648c93b9e[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Mon Jan 2 13:29:11 2023 +0530
+
+    jenkins update
+
+[33mcommit 37328891f9687db36d7c6cc99ee5a0ac78f9c9b3[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Wed Dec 28 17:35:29 2022 +0530
+
+    Update application.properties
+    
+    username
+
+[33mcommit dfff893c6508fff5117b91b07afd3d085f29e283[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Wed Dec 28 17:34:00 2022 +0530
+
+    Update application.properties
+
+[33mcommit 1e8e986d79459e13773d083a319cf7245cc099ce[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Fri Dec 23 17:04:06 2022 +0530
+
+    deploy stage
+
+[33mcommit 3cfbd003692f02b4aded6c10aee4737f66b26d64[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Fri Dec 23 17:00:40 2022 +0530
+
+    corrected
+
+[33mcommit a70870b81465da79c174e484413a5f790825253d[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Fri Dec 23 16:55:45 2022 +0530
+
+    docker stage
+
+[33mcommit 2591e0e252094619b814154005b61df8e134fe48[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Fri Dec 23 16:47:15 2022 +0530
+
+    corrected
+
+[33mcommit d04c622ce9d41ac102d9f90a3fef31bdc2adc8d2[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Fri Dec 23 16:46:42 2022 +0530
+
+    corrected jenkinsfile
+
+[33mcommit ee5909130392d8edba49fc56cc1e0e06f231c2a6[m
+Author: root <basavaraj.bhavi@pratian.com>
+Date:   Fri Dec 23 16:45:00 2022 +0530
+
+    added docker and jenkins file
+
+[33mcommit f01315ac612c0bbd27ae52039070571ce022131f[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Fri Dec 23 16:28:05 2022 +0530
+
+    Update Dockerfile
+
+[33mcommit 9dbc4788b8be4490043b41c3f3d7a5ff9d2b1d7a[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Thu Dec 22 13:39:40 2022 +0530
+
+    Update application.properties
+
+[33mcommit af9ad12fbf530c38cf5fc6060baebff203a08457[m
+Merge: 8391f1b 637f6b7
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Thu Dec 22 12:26:53 2022 +0530
+
+    accepted both changes
+
+[33mcommit 8391f1bd82adb8d7d6e2e2b5e1362864ea497450[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Thu Dec 22 12:21:55 2022 +0530
+
+    dockerfile
+
+[33mcommit 637f6b76768e2801c56b35f59fff164c3bafcfbc[m
+Merge: d00de07 6b107fc
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Thu Dec 22 12:20:45 2022 +0530
+
+    Merge branch 'main' of https://github.com/basavarajbhavi/Mobile-Store-
+
+[33mcommit d00de0755dc646be931e48dbc580a994a5726683[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Thu Dec 22 12:20:24 2022 +0530
+
+    dockerfile modified
+
+[33mcommit 6b107fc122506cf88b238aee63ef572ac6ae633b[m
+Merge: 721b234 cf5507b
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Thu Dec 22 12:11:49 2022 +0530
+
+    Merge branch 'main' of https://github.com/basavarajbhavi/Mobile-Store-
+
+[33mcommit 721b2346593ddcb06ba3519e0f3b9fef161a71ef[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Thu Dec 22 12:10:59 2022 +0530
+
+    example
+
+[33mcommit cf5507bbe4f71e1bd53b2d6a6b5728298239cfab[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Thu Dec 22 12:09:30 2022 +0530
+
+    dockerfile is added
+
+[33mcommit b2126ddf86ec2512b551876e51894950cd22df34[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Thu Dec 22 12:03:03 2022 +0530
+
+    login page is completed
+
+[33mcommit dcbbe6e2be9c1b935630c4e96a30ff3567a9253f[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Tue Nov 29 12:17:13 2022 +0530
+
+    Delete Dockerfile
+
+[33mcommit a9d06cc6eb19bff0361fe951607c074b5055bab0[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Tue Nov 29 12:17:03 2022 +0530
+
+    Delete Jenkinsfile
+
+[33mcommit 36224230253809933b2a0ba72214d2bf51cefcc4[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Sun Oct 23 17:43:40 2022 +0530
+
+    example
+
+[33mcommit 6b668ff381559a4d7502255cec81250e92a2b4a9[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Thu Oct 13 18:13:16 2022 +0530
+
+    Update README.md
+
+[33mcommit a12c9219837f12951f92a10bd75dc5e0cc0e38bf[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Mon Sep 19 17:32:56 2022 +0530
+
+    Create Jenkinsfile
+
+[33mcommit 2132e4bf064581794ed35000aa7ad925e5dfed1b[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Fri Sep 2 12:49:59 2022 +0530
+
+    Create Dockerfile
+
+[33mcommit 4bd9174d0af78175c76a4bc44632889f2ec14337[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Fri Sep 2 12:45:20 2022 +0530
+
+    Update application.properties
+
+[33mcommit af841f2383e88dab64988d6e61bbfce9fb21573b[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Thu Sep 1 12:09:54 2022 +0530
+
+    Create README.md
+
+[33mcommit 9b8746b41aa408af6c43ced8c0e41b8d82a948a2[m
+Author: basavarajbhavi <64136876+basavarajbhavi@users.noreply.github.com>
+Date:   Thu Sep 1 10:50:20 2022 +0530
+
+    Update application.properties
+
+[33mcommit cceddab04c96c1a741e38c5477bb0e262e4ddc7a[m
+Author: Basavaraj <basavaraj.bhavi@pratian.com>
+Date:   Tue Aug 30 16:09:49 2022 +0530
+
+    first commit
